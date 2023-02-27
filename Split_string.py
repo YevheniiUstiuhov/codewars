@@ -6,4 +6,3 @@ def solution(s):
         else:
             a.append(s[i]+'_');
     return a
-  
